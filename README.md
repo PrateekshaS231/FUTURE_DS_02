@@ -26,4 +26,5 @@ Focus retention efforts on early-stage users
 
 # Dashboard
 
-[Churn_Dashboard.pdf](https://github.com/user-attachments/files/26903967/Churn_Dashboard.pdf)
+<img width="2767" height="1600" alt="Churn_Dashboard" src="https://github.com/user-attachments/assets/3daaec72-71d0-49ae-843c-58f484d8796a" />
+
