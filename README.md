@@ -25,6 +25,4 @@ Monitor high-paying customers for churn risk
 Focus retention efforts on early-stage users
 
 # Dashboard
-
-<img width="2767" height="1600" alt="Churn_Dashboard" src="https://github.com/user-attachments/assets/3daaec72-71d0-49ae-843c-58f484d8796a" />
-
+<img width="2767" height="1600" alt="Churn_Dashboard" src="https://github.com/user-attachments/assets/2221e6a2-56fb-4a78-a977-40d71bb34d71" />
